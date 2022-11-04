@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "solder_coax")(type "KiCad")(uri "${KIPRJMOD}/solder_coax.pretty")(options "")(descr ""))
+)
