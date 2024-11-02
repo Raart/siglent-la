@@ -15,7 +15,7 @@
       (property "Footprint" "Connector_PCBEdge:BUS_PCIexpress_x1" (at 1.27 25.4 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63" (at 8.89 -26.67 0)
+      (property "Datasheet" "https://web.archive.org/web/20190221230930/http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63" (at 8.89 -26.67 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_keywords" "pcie" (at 0 0 0)
